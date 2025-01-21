@@ -2,9 +2,9 @@
 
 <br>
 
-URLs below.
+URL below.
 
-[tweet-generator-play.vercel.app]
+テストサイト[tweet-generator-play.vercel.app]
 
 <br>
 
