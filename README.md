@@ -4,7 +4,7 @@
 
 URL below.
 
-(WEBサイト)[tweet-generator-play.vercel.app]
+[WEBサイト](tweet-generator-play.vercel.app)
 
 <br>
 
