@@ -1,3 +1,11 @@
+# Tweet_Generator_Play
+
+Jokes
+
+Funny
+
+Playing games
+
 # Features
 
 - **Next.js Pages Router**: Utilizes the traditional routing system of Next.js for easy navigation and page management.
